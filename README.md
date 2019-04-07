@@ -1,9 +1,8 @@
-# 此仓库
-## 此仓库用于“2020清华大学计算机考研”qq群（120277543）每日问题收集，使得群内高价值的问题得以长久保存。
-## 提问册与解答册均以.txt格式文件给出。解答册压包密码请私聊群主QQ索取（免费）。
+此仓库用于“2020清华大学计算机考研”qq群（120277543）每日问题收集，使得群内高价值的问题得以长久保存。
+提问册与解答册均以.txt格式文件给出。解答册压包密码请私聊群主QQ索取（免费）。
 
 
-![avatar](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1554611992014&di=555a4fc9352240de0c1cbab4178d19d2&imgtype=0&src=http%3A%2F%2Fimg.pconline.com.cn%2Fimages%2Fupload%2Fupc%2Ftx%2Fphotoblog%2F1304%2F26%2Fc10%2F20285731_20285731_1366978654168.jpg)
+![avatar](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=347139529,1934829869&fm=200&gp=0.jpg)
 
 ## 0001【4月5日◆】简答题——by：20-912只聊学习(3272662938) && nullptr
 ## 问题：各位大佬，页目录表中保存的二级页表地址是线性地址还是虚拟地址呢？
